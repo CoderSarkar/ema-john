@@ -1,0 +1,11 @@
+.cartContainer{
+    margin-left: 5px;
+}
+
+.cartContainer h1{
+    text-align: center;
+}
+.cartContainer h5{
+    text-align: center;
+    font-weight: 700;
+}
